@@ -13,5 +13,5 @@
   
   ### STEPS:
   - Write a sentence to be encrypted or decrypted;
-  - Choose a key between 0 and 25;
+  - Choose a key between 1 and 25;
   - Choose a mode: 'encrypt' or 'decrypt'
