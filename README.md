@@ -6,8 +6,9 @@
 - **pyperclip** is a module created by the author of the book. 
   The *pyperclip* file need to be in the same folder of the main file.
   
-  This simple caesar cipher algorithm doesn't encrypt non-letters. If a try to encrypt this string _'In age of Bitcoin, countries will    
-  never have to rely on others to store their assets! 03-09-2017'_ with the key 4, it will encrypt to _'MR EKI SJ FMXGSMR, GSYRXVMIW AMPP   RIZIV LEZI XS VIPC SR SXLIVW XS WXSVI XLIMV EWWIXW! 03-09-2017'_
+  This simple caesar cipher algorithm doesn't encrypt non-letters. If a try to encrypt this string _'In age of Bitcoin, countries will   
+  never have to rely on others to store their assets! 03-09-2017'_ with the key 4, it will encrypt to _'MR EKI SJ FMXGSMR, GSYRXVMIW AMPP 
+  RIZIV LEZI XS VIPC SR SXLIVW XS WXSVI XLIMV EWWIXW! 03-09-2017'_
   
   ### STEPS:
   - Write a sentence to be encrypted or decrypted;
