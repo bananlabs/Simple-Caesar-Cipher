@@ -14,8 +14,8 @@ message = input("Only Alphabetical Characters Allowed [A-Z] - CHARACTERS OUT OF 
 # the encryption/decryption key
 
 while True:
-    key = int(input("Choose a key, numbers between[0-25]: "))
-    if not(key > 25 or key < 0):
+    key = int(input("Choose a key, numbers between[1-25]: "))
+    if not(key > 25 or key < 1):
         break
     
 # tells the program to encrypt or decrypt
